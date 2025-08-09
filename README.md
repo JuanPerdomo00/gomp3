@@ -48,7 +48,7 @@ Before using GoMP3, make sure you have:
 
 Clone the repository:
 ```bash
-git clone https://github.com/usuario/gomp3.git
+git clone https://github.com/JuanPerdomo00/gomp3.git
 cd gomp3
 ```
 
